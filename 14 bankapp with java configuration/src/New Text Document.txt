@@ -1,0 +1,9 @@
+bean lifecycle
+container lifecycle
+all annotations
+
+what is autowiring and diff types of it?
+what is dependency injection
+wht is ioc
+diff b/w constructor and setter injection
+spring aop
